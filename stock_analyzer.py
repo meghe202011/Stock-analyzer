@@ -378,8 +378,7 @@ with st.sidebar:
 # MAIN CONTENT
 # ════════════════════════════════════════════════════════════════════════════
 
-st.markdown("# 📊 AI Stock Analyzer")
-st.markdown("Powered by Yahoo Finance + Claude AI")
+st.markdown("# 📊 Stock Analyzer")
 
 if not ticker:
     st.info("Enter a ticker symbol in the sidebar and click **Analyze**.")
