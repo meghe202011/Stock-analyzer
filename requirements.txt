@@ -1,0 +1,7 @@
+yfinance
+anthropic
+pandas
+ta
+streamlit
+plotly
+requests
